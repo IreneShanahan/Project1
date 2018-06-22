@@ -1,1 +1,2 @@
 Hello from index.html file
+This is now a txt file
