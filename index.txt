@@ -2,3 +2,4 @@ This is a new line of text
 hello Irene...when this works spend 45 min with Siobhan
 step 1 open index.txt in code editor with project 1
  (open in both git hub and and code editor)
+ repeat the process....
